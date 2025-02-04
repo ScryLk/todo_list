@@ -7,7 +7,8 @@ module.exports = {
     extend: {
       colors: {
         "backgroundBlackColor": "#121212",
-        "tittleColor": "#1D1D1D"
+        "tittleColor": "#1D1D1D",
+        "taskColor": "#2F2F2F"
       },
       fontFamily: {
         poppins: ["PoppinsRegular"],
